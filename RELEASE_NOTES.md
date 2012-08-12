@@ -1,0 +1,1 @@
+Release notes 20120812Nothing to comment so far.
