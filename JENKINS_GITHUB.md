@@ -1,0 +1,1 @@
+Jenkins should be enabled to kick off tests as soon as a new commit is isssued.
